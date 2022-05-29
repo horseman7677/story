@@ -5,34 +5,34 @@ export const Data = [
             "https://i0.wp.com/allpicts.in/wp-content/uploads/2016/05/3d-nature-images-hd.jpg?resize=768%2C480",
     },
     {
-        title: "play",
+        title: "सौतेला बाप",
         image:
             "https://i0.wp.com/allpicts.in/wp-content/uploads/2016/05/3d-nature-images-hd.jpg?resize=768%2C480",
     },
     {
-        title: "movie",
+        title: "हमसफ़र मेरी",
         image:
             "https://i0.wp.com/allpicts.in/wp-content/uploads/2016/05/3d-nature-images-hd.jpg?resize=768%2C480",
     },
     {
-        title: "stage",
+        title: "अनोखा विवाह",
         image:
             "https://i0.wp.com/allpicts.in/wp-content/uploads/2016/05/3d-nature-images-hd.jpg?resize=768%2C480",
     },
     {
-        title: "role",
-        image:
-            "https://i0.wp.com/allpicts.in/wp-content/uploads/2016/05/3d-nature-images-hd.jpg?resize=768%2C480",
-    },
-
-    {
-        title: "role",
+        title: "डिग्री वाली बहू",
         image:
             "https://i0.wp.com/allpicts.in/wp-content/uploads/2016/05/3d-nature-images-hd.jpg?resize=768%2C480",
     },
 
     {
-        title: "role",
+        title: "झरे हुए फूल",
+        image:
+            "https://i0.wp.com/allpicts.in/wp-content/uploads/2016/05/3d-nature-images-hd.jpg?resize=768%2C480",
+    },
+
+    {
+        title: "सगाई की अंगूठी",
         image:
             "https://i0.wp.com/allpicts.in/wp-content/uploads/2016/05/3d-nature-images-hd.jpg?resize=768%2C480",
     },

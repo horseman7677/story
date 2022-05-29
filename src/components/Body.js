@@ -4,7 +4,7 @@ import Card from '@mui/material/Card';
 import { CardActions, CardContent, CardMedia, Typography } from '@mui/material';
 import { Data } from './Content'
 import { Link } from 'react-router-dom';
-
+// this the body of site
 function Body() {
   // console.log(Data);
   // const read = (e) => {

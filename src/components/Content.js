@@ -36,4 +36,9 @@ export const Data = [
         image:
             "https://i0.wp.com/allpicts.in/wp-content/uploads/2016/05/3d-nature-images-hd.jpg?resize=768%2C480",
     },
+    {
+        title: "सगाई की अंगूठी",
+        image:
+            "https://i0.wp.com/allpicts.in/wp-content/uploads/2016/05/3d-nature-images-hd.jpg?resize=768%2C480",
+    },
 ];
